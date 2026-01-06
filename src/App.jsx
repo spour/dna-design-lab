@@ -68,7 +68,9 @@ const BuildAPromoter = () => {
   // Store fetched JASPAR models here
   const [motifLibrary, setMotifLibrary] = useState({});
 
-  const JASPAR_BASE = '/api/jaspar/api/v1';
+  // const JASPAR_BASE = '/api/jaspar/api/v1';
+  const JASPAR_BASE = 'https://jaspar.elixir.no/api/v1';
+
 
   // --- BIOLOGICAL CONFIG ---
   const CELL_DATA = {
@@ -169,7 +171,7 @@ const BuildAPromoter = () => {
       if (!factor.jaspar || newLibrary[factor.jaspar]) return;
 
       try {
-        const response = await fetch(`${JASPAR_BASE}/matrix/${factor.jaspar}/`);
+        const response = await fetch(`${JASPAR_BASE}/matrix/${factor.jaspar}/?format=json`);
         if (!response.ok) throw new Error('JASPAR API Error');
         const data = await response.json();
 
