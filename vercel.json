@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/jaspar/:path*",
-      "destination": "https://jaspar.elixir.no/api/v1/:path*"
-    }
-  ]
-}
