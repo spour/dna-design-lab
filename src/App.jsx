@@ -171,7 +171,7 @@ const BuildAPromoter = () => {
       if (!factor.jaspar || newLibrary[factor.jaspar]) return;
 
       try {
-        const response = await fetch(`${JASPAR_BASE}/matrix/${factor.jaspar}/?format=json`);
+        const response = await fetch(`${JASPAR_BASE}?path=matrix/${factor.jaspar}/&format=json`);
         if (!response.ok) throw new Error('JASPAR API Error');
         const data = await response.json();
 
@@ -207,12 +207,13 @@ const BuildAPromoter = () => {
 
     try {
       const response = await fetch(
-        `${JASPAR_BASE}/matrix/?search=${encodeURIComponent(searchQuery)}&format=json`,
+        `${JASPAR_BASE}?path=matrix/&search=${encodeURIComponent(searchQuery)}&format=json`,
       );
+
 
       if (!response.ok) {
         throw new Error(`API Error: ${response.status}`);
-      }
+      } 
 
       const data = await response.json();
 

@@ -1,13 +1,10 @@
-// api/jaspar.js
 export default async function handler(req, res) {
   try {
     const { path = "", ...query } = req.query;
 
-    // `path` comes from the rewrite (string like "matrix/MA0442.1/")
-    const cleanPath = String(path).replace(/^\/+|\/+$/g, ""); // trim leading/trailing /
+    const cleanPath = String(path).replace(/^\/+|\/+$/g, "");
     const upstream = new URL(`https://jaspar.elixir.no/api/v1/${cleanPath}`);
 
-    // forward query params (format=json, search=SOX, etc.)
     for (const [k, v] of Object.entries(query)) {
       if (Array.isArray(v)) v.forEach((x) => upstream.searchParams.append(k, x));
       else if (v !== undefined) upstream.searchParams.set(k, v);
