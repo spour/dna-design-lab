@@ -1,0 +1,3210 @@
+{
+  "metadata": {
+    "source": "Human Protein Atlas v25.0 + JASPAR",
+    "hpa_files": {
+      "meta": "proteinatlas.tsv",
+      "rna_tissue": "rna_tissue_consensus.tsv"
+    },
+    "celltypes": [
+      "neuron",
+      "liver",
+      "muscle",
+      "tcell",
+      "stem",
+      "ubiquitous"
+    ],
+    "generated_by": "build_tf_library.py"
+  },
+  "cell_types": {
+    "neuron": [
+      {
+        "gene": "OLIG1",
+        "jaspar": "MA0826.1",
+        "score": 8.580085582947051,
+        "target_nTPM": 136.18,
+        "weight": 1.0
+      },
+      {
+        "gene": "OLIG2",
+        "jaspar": "MA0678.1",
+        "score": 8.188270919741198,
+        "target_nTPM": 34.760000000000005,
+        "weight": 1.0
+      },
+      {
+        "gene": "OTX2",
+        "jaspar": "MA0712.1",
+        "score": 7.89065628219726,
+        "target_nTPM": 43.89,
+        "weight": 1.0
+      },
+      {
+        "gene": "NEUROD2",
+        "jaspar": "MA0668.1",
+        "score": 7.364298837058668,
+        "target_nTPM": 19.189999999999998,
+        "weight": 1.0
+      },
+      {
+        "gene": "CRX",
+        "jaspar": "MA0467.1",
+        "score": 7.363198567759226,
+        "target_nTPM": 20.38,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZIC2",
+        "jaspar": "MA1629.1",
+        "score": 6.984414330735256,
+        "target_nTPM": 21.21,
+        "weight": 1.0
+      },
+      {
+        "gene": "NR2E1",
+        "jaspar": "MA0676.1",
+        "score": 6.773716169351212,
+        "target_nTPM": 12.71,
+        "weight": 1.0
+      },
+      {
+        "gene": "SCRT1",
+        "jaspar": "MA0743.1",
+        "score": 6.477762195400101,
+        "target_nTPM": 22.29,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZIC1",
+        "jaspar": "MA0696.1",
+        "score": 6.242979419761153,
+        "target_nTPM": 68.61999999999999,
+        "weight": 1.0
+      },
+      {
+        "gene": "VSX2",
+        "jaspar": "MA0726.1",
+        "score": 6.019135786942153,
+        "target_nTPM": 6.860000000000001,
+        "weight": 1.0
+      },
+      {
+        "gene": "POU3F2",
+        "jaspar": "MA0787.1",
+        "score": 5.893604904858293,
+        "target_nTPM": 5.989999999999999,
+        "weight": 1.0
+      },
+      {
+        "gene": "NKX6-2",
+        "jaspar": "MA0675.1",
+        "score": 5.789851592518001,
+        "target_nTPM": 32.690000000000005,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZIC4",
+        "jaspar": "MA0751.1",
+        "score": 5.762560149333027,
+        "target_nTPM": 10.89,
+        "weight": 1.0
+      },
+      {
+        "gene": "NR2E3",
+        "jaspar": "MA0164.1",
+        "score": 5.371558862611963,
+        "target_nTPM": 12.32,
+        "weight": 1.0
+      },
+      {
+        "gene": "TBR1",
+        "jaspar": "MA0802.1",
+        "score": 5.354604720567747,
+        "target_nTPM": 4.79,
+        "weight": 1.0
+      },
+      {
+        "gene": "LHX2",
+        "jaspar": "MA0700.1",
+        "score": 5.254909082308645,
+        "target_nTPM": 30.82,
+        "weight": 1.0
+      },
+      {
+        "gene": "BARHL1",
+        "jaspar": "MA0877.2",
+        "score": 5.221103725367875,
+        "target_nTPM": 3.63,
+        "weight": 1.0
+      },
+      {
+        "gene": "NEUROD1",
+        "jaspar": "MA1109.1",
+        "score": 5.206004235475658,
+        "target_nTPM": 31.589999999999996,
+        "weight": 1.0
+      },
+      {
+        "gene": "SOX8",
+        "jaspar": "MA0868.1",
+        "score": 5.1880126989515984,
+        "target_nTPM": 49.78,
+        "weight": 1.0
+      },
+      {
+        "gene": "FEZF2",
+        "jaspar": "MA2341.1",
+        "score": 5.174312074336234,
+        "target_nTPM": 7.209999999999999,
+        "weight": 1.0
+      },
+      {
+        "gene": "RAX2",
+        "jaspar": "MA0717.1",
+        "score": 5.082929624509078,
+        "target_nTPM": 6.1,
+        "weight": 1.0
+      },
+      {
+        "gene": "ST18",
+        "jaspar": "MA0774.1",
+        "score": 5.00057696263152,
+        "target_nTPM": 9.66,
+        "weight": 1.0
+      },
+      {
+        "gene": "BARHL2",
+        "jaspar": "MA0635.1",
+        "score": 4.962225831966985,
+        "target_nTPM": 4.69,
+        "weight": 1.0
+      },
+      {
+        "gene": "PAX6",
+        "jaspar": "MA0069.1",
+        "score": 4.888822400744145,
+        "target_nTPM": 23.240000000000002,
+        "weight": 1.0
+      },
+      {
+        "gene": "TLX3",
+        "jaspar": "MA2685.1",
+        "score": 4.626040840543985,
+        "target_nTPM": 2.55,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZIC5",
+        "jaspar": "MA1584.1",
+        "score": 4.56649889488958,
+        "target_nTPM": 4.3500000000000005,
+        "weight": 1.0
+      },
+      {
+        "gene": "FOXG1",
+        "jaspar": "MA0613.1",
+        "score": 4.563412702064643,
+        "target_nTPM": 9.3,
+        "weight": 1.0
+      },
+      {
+        "gene": "NRL",
+        "jaspar": "MA0842.1",
+        "score": 4.544706445605407,
+        "target_nTPM": 32.12,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZIC3",
+        "jaspar": "MA0697.1",
+        "score": 4.536608017812524,
+        "target_nTPM": 3.07,
+        "weight": 1.0
+      },
+      {
+        "gene": "NKX2-2",
+        "jaspar": "MA1645.1",
+        "score": 4.3824832351155045,
+        "target_nTPM": 10.989999999999998,
+        "weight": 1.0
+      },
+      {
+        "gene": "EN2",
+        "jaspar": "MA0642.1",
+        "score": 4.379578310948083,
+        "target_nTPM": 3.8600000000000003,
+        "weight": 1.0
+      },
+      {
+        "gene": "EGR4",
+        "jaspar": "MA0733.1",
+        "score": 4.2644426002266025,
+        "target_nTPM": 5.9,
+        "weight": 1.0
+      },
+      {
+        "gene": "VSX1",
+        "jaspar": "MA0725.1",
+        "score": 4.230521439404496,
+        "target_nTPM": 6.3100000000000005,
+        "weight": 1.0
+      },
+      {
+        "gene": "UNCX",
+        "jaspar": "MA0721.1",
+        "score": 4.1343578633160805,
+        "target_nTPM": 2.4699999999999998,
+        "weight": 1.0
+      },
+      {
+        "gene": "OTP",
+        "jaspar": "UN1177.1",
+        "score": 4.107573751609737,
+        "target_nTPM": 1.7500000000000004,
+        "weight": 1.0
+      },
+      {
+        "gene": "SOX2",
+        "jaspar": "UN0549.1",
+        "score": 4.07444954860347,
+        "target_nTPM": 40.95,
+        "weight": 1.0
+      },
+      {
+        "gene": "DLX1",
+        "jaspar": "MA0879.2",
+        "score": 4.070930778466674,
+        "target_nTPM": 4.450000000000001,
+        "weight": 1.0
+      },
+      {
+        "gene": "MYT1",
+        "jaspar": "MA2506.1",
+        "score": 3.9810387719651184,
+        "target_nTPM": 7.68,
+        "weight": 0.9981038771965118
+      },
+      {
+        "gene": "SOX1",
+        "jaspar": "MA0442.1",
+        "score": 3.9047298428797697,
+        "target_nTPM": 1.69,
+        "weight": 0.9904729842879769
+      },
+      {
+        "gene": "MYT1L",
+        "jaspar": "MA2682.1",
+        "score": 3.8366233367485023,
+        "target_nTPM": 8.96,
+        "weight": 0.9836623336748502
+      },
+      {
+        "gene": "ZNF536",
+        "jaspar": "MA2575.1",
+        "score": 3.8015893756194803,
+        "target_nTPM": 13.3,
+        "weight": 0.980158937561948
+      },
+      {
+        "gene": "ARNT2",
+        "jaspar": "MA1464.1",
+        "score": 3.617122555148306,
+        "target_nTPM": 53.980000000000004,
+        "weight": 0.9617122555148306
+      },
+      {
+        "gene": "HES5",
+        "jaspar": "MA0821.1",
+        "score": 3.587033850740851,
+        "target_nTPM": 6.7,
+        "weight": 0.9587033850740851
+      },
+      {
+        "gene": "SCRT2",
+        "jaspar": "MA0744.1",
+        "score": 3.528222392303218,
+        "target_nTPM": 1.1099999999999999,
+        "weight": 0.9528222392303218
+      },
+      {
+        "gene": "HMX1",
+        "jaspar": "MA0896.1",
+        "score": 3.408178077688052,
+        "target_nTPM": 1.35,
+        "weight": 0.9408178077688052
+      },
+      {
+        "gene": "FOXH1",
+        "jaspar": "MA0479.1",
+        "score": 3.3782609014501923,
+        "target_nTPM": 4.11,
+        "weight": 0.9378260901450193
+      },
+      {
+        "gene": "VAX1",
+        "jaspar": "MA0722.1",
+        "score": 3.3397773028901074,
+        "target_nTPM": 1.1099999999999999,
+        "weight": 0.9339777302890108
+      },
+      {
+        "gene": "LHX1",
+        "jaspar": "MA1518.1",
+        "score": 3.2940855857746913,
+        "target_nTPM": 3.6800000000000006,
+        "weight": 0.9294085585774692
+      },
+      {
+        "gene": "FEZF1",
+        "jaspar": "UN0121.1",
+        "score": 3.218039855356231,
+        "target_nTPM": 2.5100000000000002,
+        "weight": 0.921803985535623
+      },
+      {
+        "gene": "SIX3",
+        "jaspar": "MA0631.1",
+        "score": 3.216298152264726,
+        "target_nTPM": 9.33,
+        "weight": 0.9216298152264726
+      },
+      {
+        "gene": "BHLHE22",
+        "jaspar": "MA0818.1",
+        "score": 3.1708512904249444,
+        "target_nTPM": 7.499999999999998,
+        "weight": 0.9170851290424944
+      },
+      {
+        "gene": "NHLH2",
+        "jaspar": "MA1529.1",
+        "score": 3.1230867509810603,
+        "target_nTPM": 2.6199999999999997,
+        "weight": 0.912308675098106
+      },
+      {
+        "gene": "SALL3",
+        "jaspar": "MA2537.1",
+        "score": 3.0384949455854766,
+        "target_nTPM": 4.93,
+        "weight": 0.9038494945585477
+      },
+      {
+        "gene": "SOX10",
+        "jaspar": "MA0442.1",
+        "score": 2.982179774254185,
+        "target_nTPM": 53.69,
+        "weight": 0.8982179774254184
+      },
+      {
+        "gene": "POU3F3",
+        "jaspar": "MA0788.1",
+        "score": 2.9732113025621563,
+        "target_nTPM": 18.9,
+        "weight": 0.8973211302562156
+      },
+      {
+        "gene": "VAX2",
+        "jaspar": "MA0723.1",
+        "score": 2.9685097138721845,
+        "target_nTPM": 3.6800000000000006,
+        "weight": 0.8968509713872184
+      },
+      {
+        "gene": "SOX11",
+        "jaspar": "MA0869.1",
+        "score": 2.8169836232553807,
+        "target_nTPM": 1.0,
+        "weight": 0.8816983623255381
+      },
+      {
+        "gene": "SP9",
+        "jaspar": "MA1564.1",
+        "score": 2.8086587586044494,
+        "target_nTPM": 1.25,
+        "weight": 0.8808658758604448
+      },
+      {
+        "gene": "NPAS3",
+        "jaspar": "MA2683.1",
+        "score": 2.8056183042843985,
+        "target_nTPM": 6.380000000000001,
+        "weight": 0.8805618304284398
+      },
+      {
+        "gene": "RORB",
+        "jaspar": "MA1150.1",
+        "score": 2.792226660034518,
+        "target_nTPM": 7.790000000000001,
+        "weight": 0.8792226660034518
+      },
+      {
+        "gene": "ZFP57",
+        "jaspar": "MA1583.1",
+        "score": 2.725283789118571,
+        "target_nTPM": 5.4,
+        "weight": 0.8725283789118571
+      },
+      {
+        "gene": "ASCL1",
+        "jaspar": "MA1100.1",
+        "score": 2.7167150591421527,
+        "target_nTPM": 8.510000000000002,
+        "weight": 0.8716715059142153
+      },
+      {
+        "gene": "LMX1A",
+        "jaspar": "MA0702.1",
+        "score": 2.7136958148433585,
+        "target_nTPM": 2.0599999999999996,
+        "weight": 0.8713695814843359
+      },
+      {
+        "gene": "RFX4",
+        "jaspar": "MA0799.1",
+        "score": 2.6466838471542813,
+        "target_nTPM": 12.730000000000002,
+        "weight": 0.8646683847154282
+      },
+      {
+        "gene": "RAX",
+        "jaspar": "UN1192.1",
+        "score": 2.5817671615613493,
+        "target_nTPM": 1.5500000000000003,
+        "weight": 0.8581767161561349
+      },
+      {
+        "gene": "ATOH7",
+        "jaspar": "MA1468.1",
+        "score": 2.4024062404023443,
+        "target_nTPM": 1.3700000000000003,
+        "weight": 0.8402406240402345
+      },
+      {
+        "gene": "MYRF",
+        "jaspar": "UN0894.1",
+        "score": 2.368632165562293,
+        "target_nTPM": 22.119999999999997,
+        "weight": 0.8368632165562293
+      },
+      {
+        "gene": "THRA",
+        "jaspar": "MA1969.1",
+        "score": 2.3674029926106748,
+        "target_nTPM": 185.06,
+        "weight": 0.8367402992610675
+      },
+      {
+        "gene": "TFAP2E",
+        "jaspar": "MA1569.1",
+        "score": 2.290196736816319,
+        "target_nTPM": 1.94,
+        "weight": 0.8290196736816319
+      },
+      {
+        "gene": "ZNF534",
+        "jaspar": "UN0332.1",
+        "score": 2.2184879668805317,
+        "target_nTPM": 1.16,
+        "weight": 0.8218487966880532
+      },
+      {
+        "gene": "ZSCAN1",
+        "jaspar": "MA1973.1",
+        "score": 2.1153244016963715,
+        "target_nTPM": 6.04,
+        "weight": 0.8115324401696371
+      },
+      {
+        "gene": "NPAS4",
+        "jaspar": "MA1995.1",
+        "score": 1.9672369347504712,
+        "target_nTPM": 4.0200000000000005,
+        "weight": 0.7967236934750471
+      },
+      {
+        "gene": "ESRRB",
+        "jaspar": "MA0141.3",
+        "score": 1.935289180473482,
+        "target_nTPM": 3.5100000000000002,
+        "weight": 0.7935289180473482
+      },
+      {
+        "gene": "ZNF470",
+        "jaspar": "MA2689.1",
+        "score": 1.90536752377938,
+        "target_nTPM": 8.790000000000003,
+        "weight": 0.790536752377938
+      },
+      {
+        "gene": "TCFL5",
+        "jaspar": "MA0632.2",
+        "score": 1.8610945289973193,
+        "target_nTPM": 28.75,
+        "weight": 0.7861094528997319
+      },
+      {
+        "gene": "ZNF382",
+        "jaspar": "MA1594.1",
+        "score": 1.8208398545190767,
+        "target_nTPM": 6.69,
+        "weight": 0.7820839854519077
+      },
+      {
+        "gene": "HEY1",
+        "jaspar": "MA0823.1",
+        "score": 1.8162835205054195,
+        "target_nTPM": 20.18,
+        "weight": 0.7816283520505419
+      },
+      {
+        "gene": "ZBTB18",
+        "jaspar": "MA0698.1",
+        "score": 1.8033663000453501,
+        "target_nTPM": 55.489999999999995,
+        "weight": 0.780336630004535
+      },
+      {
+        "gene": "SOX21",
+        "jaspar": "MA0866.1",
+        "score": 1.7979323520113908,
+        "target_nTPM": 5.93,
+        "weight": 0.7797932352011391
+      },
+      {
+        "gene": "HES6",
+        "jaspar": "MA1493.1",
+        "score": 1.770196726251483,
+        "target_nTPM": 32.03,
+        "weight": 0.7770196726251483
+      },
+      {
+        "gene": "RXRG",
+        "jaspar": "MA0856.1",
+        "score": 1.7575220558079858,
+        "target_nTPM": 11.33,
+        "weight": 0.7757522055807986
+      },
+      {
+        "gene": "ZNF483",
+        "jaspar": "UN0618.1",
+        "score": 1.7437978466327781,
+        "target_nTPM": 10.07,
+        "weight": 0.7743797846632778
+      },
+      {
+        "gene": "MESP1",
+        "jaspar": "UN1251.1",
+        "score": 1.7411765512654658,
+        "target_nTPM": 8.379999999999999,
+        "weight": 0.7741176551265465
+      },
+      {
+        "gene": "SOX3",
+        "jaspar": "MA2684.1",
+        "score": 1.6718756391487322,
+        "target_nTPM": 1.26,
+        "weight": 0.7671875639148732
+      },
+      {
+        "gene": "MEIS3",
+        "jaspar": "MA0775.1",
+        "score": 1.6419865927375459,
+        "target_nTPM": 40.48,
+        "weight": 0.7641986592737546
+      },
+      {
+        "gene": "DLX6",
+        "jaspar": "MA0882.1",
+        "score": 1.6148727592574839,
+        "target_nTPM": 1.7899999999999998,
+        "weight": 0.7614872759257484
+      }
+    ],
+    "liver": [
+      {
+        "gene": "NR1I3",
+        "jaspar": "MA1534.1",
+        "score": 7.933463691207427,
+        "target_nTPM": 158.8,
+        "weight": 1.0
+      },
+      {
+        "gene": "ATF5",
+        "jaspar": "UN0799.1",
+        "score": 6.799068163389936,
+        "target_nTPM": 2375.4,
+        "weight": 1.0
+      },
+      {
+        "gene": "MLXIPL",
+        "jaspar": "MA0664.1",
+        "score": 5.4370179690836355,
+        "target_nTPM": 546.1,
+        "weight": 1.0
+      },
+      {
+        "gene": "CREB3L3",
+        "jaspar": "MA2541.1",
+        "score": 5.275623293852612,
+        "target_nTPM": 381.3,
+        "weight": 1.0
+      },
+      {
+        "gene": "NR1H4",
+        "jaspar": "MA1110.1",
+        "score": 5.0276853885312365,
+        "target_nTPM": 112.7,
+        "weight": 1.0
+      },
+      {
+        "gene": "PROX1",
+        "jaspar": "MA0794.1",
+        "score": 4.6191941355404555,
+        "target_nTPM": 81.1,
+        "weight": 1.0
+      },
+      {
+        "gene": "NR1I2",
+        "jaspar": "MA1533.1",
+        "score": 4.540426600119319,
+        "target_nTPM": 44.3,
+        "weight": 1.0
+      },
+      {
+        "gene": "ONECUT1",
+        "jaspar": "UN0896.1",
+        "score": 4.367202174651803,
+        "target_nTPM": 12.2,
+        "weight": 1.0
+      },
+      {
+        "gene": "FOXA3",
+        "jaspar": "MA1683.1",
+        "score": 4.295932886354418,
+        "target_nTPM": 60.4,
+        "weight": 1.0
+      },
+      {
+        "gene": "HNF4A",
+        "jaspar": "MA0114.1",
+        "score": 3.890864725524966,
+        "target_nTPM": 112.7,
+        "weight": 0.9890864725524966
+      },
+      {
+        "gene": "CUX2",
+        "jaspar": "MA0755.1",
+        "score": 3.8595848808301616,
+        "target_nTPM": 19.7,
+        "weight": 0.9859584880830161
+      },
+      {
+        "gene": "LBX2",
+        "jaspar": "MA0699.1",
+        "score": 3.8590791156923303,
+        "target_nTPM": 9.1,
+        "weight": 0.9859079115692331
+      },
+      {
+        "gene": "CEBPA",
+        "jaspar": "MA0102.2",
+        "score": 3.831831843937934,
+        "target_nTPM": 198.2,
+        "weight": 0.9831831843937934
+      },
+      {
+        "gene": "FOXA2",
+        "jaspar": "MA0047.3",
+        "score": 3.8194763880800022,
+        "target_nTPM": 34.8,
+        "weight": 0.9819476388080002
+      },
+      {
+        "gene": "NR5A2",
+        "jaspar": "MA0505.2",
+        "score": 3.3566157523063134,
+        "target_nTPM": 36.1,
+        "weight": 0.9356615752306313
+      },
+      {
+        "gene": "DMRTA1",
+        "jaspar": "MA1707.1",
+        "score": 3.3551799006837473,
+        "target_nTPM": 7.8,
+        "weight": 0.9355179900683748
+      },
+      {
+        "gene": "ONECUT2",
+        "jaspar": "UN0492.1",
+        "score": 3.3364276645824775,
+        "target_nTPM": 7.9,
+        "weight": 0.9336427664582477
+      },
+      {
+        "gene": "HLF",
+        "jaspar": "MA2325.1",
+        "score": 3.2118304146560286,
+        "target_nTPM": 114.4,
+        "weight": 0.9211830414656028
+      },
+      {
+        "gene": "AR",
+        "jaspar": "MA0007.2",
+        "score": 3.026442443896893,
+        "target_nTPM": 35.8,
+        "weight": 0.9026442443896893
+      },
+      {
+        "gene": "IRF7",
+        "jaspar": "MA0772.1",
+        "score": 2.7050950788791845,
+        "target_nTPM": 38.7,
+        "weight": 0.8705095078879184
+      },
+      {
+        "gene": "ATOH7",
+        "jaspar": "MA1468.1",
+        "score": 2.6989977439671855,
+        "target_nTPM": 2.9,
+        "weight": 0.8698997743967185
+      },
+      {
+        "gene": "SALL1",
+        "jaspar": "UN1278.1",
+        "score": 2.6939955552006483,
+        "target_nTPM": 34.3,
+        "weight": 0.8693995555200649
+      },
+      {
+        "gene": "TBX15",
+        "jaspar": "MA0803.1",
+        "score": 2.652942761724797,
+        "target_nTPM": 43.7,
+        "weight": 0.8652942761724797
+      },
+      {
+        "gene": "NR2F6",
+        "jaspar": "MA1539.1",
+        "score": 2.5771896078518126,
+        "target_nTPM": 104.3,
+        "weight": 0.8577189607851812
+      },
+      {
+        "gene": "KLF15",
+        "jaspar": "MA1513.1",
+        "score": 2.461349988273751,
+        "target_nTPM": 88.7,
+        "weight": 0.8461349988273751
+      },
+      {
+        "gene": "RORC",
+        "jaspar": "MA1151.1",
+        "score": 2.453117844705095,
+        "target_nTPM": 62.6,
+        "weight": 0.8453117844705095
+      },
+      {
+        "gene": "SREBF1",
+        "jaspar": "MA0595.1",
+        "score": 2.307071692130718,
+        "target_nTPM": 113.9,
+        "weight": 0.8307071692130719
+      },
+      {
+        "gene": "FOXA1",
+        "jaspar": "MA0148.1",
+        "score": 2.275268893694053,
+        "target_nTPM": 21.5,
+        "weight": 0.8275268893694053
+      },
+      {
+        "gene": "GATA4",
+        "jaspar": "MA0482.2",
+        "score": 2.2710041597246895,
+        "target_nTPM": 33.3,
+        "weight": 0.827100415972469
+      },
+      {
+        "gene": "NR1H3",
+        "jaspar": "MA2337.1",
+        "score": 2.256267582327298,
+        "target_nTPM": 84.3,
+        "weight": 0.8256267582327298
+      },
+      {
+        "gene": "CEBPB",
+        "jaspar": "MA0466.1",
+        "score": 2.1888626608980424,
+        "target_nTPM": 227.8,
+        "weight": 0.8188862660898042
+      },
+      {
+        "gene": "ZNF684",
+        "jaspar": "MA1600.1",
+        "score": 2.182258361960346,
+        "target_nTPM": 12.0,
+        "weight": 0.8182258361960346
+      },
+      {
+        "gene": "RXRA",
+        "jaspar": "MA0115.1",
+        "score": 2.1447726702337246,
+        "target_nTPM": 111.8,
+        "weight": 0.8144772670233724
+      },
+      {
+        "gene": "ID2",
+        "jaspar": "MA1547.1",
+        "score": 2.044125344152531,
+        "target_nTPM": 539.3,
+        "weight": 0.8044125344152531
+      },
+      {
+        "gene": "XBP1",
+        "jaspar": "MA0844.1",
+        "score": 2.0261945553056715,
+        "target_nTPM": 642.6,
+        "weight": 0.8026194555305671
+      },
+      {
+        "gene": "ASCL1",
+        "jaspar": "MA1100.1",
+        "score": 2.021595147630593,
+        "target_nTPM": 10.4,
+        "weight": 0.8021595147630594
+      },
+      {
+        "gene": "PPARA",
+        "jaspar": "MA1148.1",
+        "score": 2.0009340855236566,
+        "target_nTPM": 30.8,
+        "weight": 0.8000934085523657
+      },
+      {
+        "gene": "ZNF563",
+        "jaspar": "UN1258.1",
+        "score": 1.8486109499951153,
+        "target_nTPM": 9.3,
+        "weight": 0.7848610949995115
+      },
+      {
+        "gene": "ZXDB",
+        "jaspar": "MA2576.1",
+        "score": 1.8312455422656253,
+        "target_nTPM": 13.6,
+        "weight": 0.7831245542265626
+      },
+      {
+        "gene": "AHR",
+        "jaspar": "MA0006.1",
+        "score": 1.7576744909983153,
+        "target_nTPM": 42.0,
+        "weight": 0.7757674490998315
+      },
+      {
+        "gene": "SOX5",
+        "jaspar": "MA0087.1",
+        "score": 1.7341669608135324,
+        "target_nTPM": 10.2,
+        "weight": 0.7734166960813532
+      },
+      {
+        "gene": "ZKSCAN1",
+        "jaspar": "MA1585.1",
+        "score": 1.7251354667043874,
+        "target_nTPM": 50.1,
+        "weight": 0.7725135466704387
+      },
+      {
+        "gene": "HNF1B",
+        "jaspar": "MA0153.1",
+        "score": 1.7143831859749143,
+        "target_nTPM": 13.0,
+        "weight": 0.7714383185974915
+      },
+      {
+        "gene": "POU5F1",
+        "jaspar": "MA1115.1",
+        "score": 1.7045441164738284,
+        "target_nTPM": 8.7,
+        "weight": 0.7704544116473828
+      },
+      {
+        "gene": "NFIA",
+        "jaspar": "MA0670.1",
+        "score": 1.6678592321582817,
+        "target_nTPM": 37.4,
+        "weight": 0.7667859232158282
+      },
+      {
+        "gene": "ZNF444",
+        "jaspar": "UN0191.1",
+        "score": 1.6596481618183165,
+        "target_nTPM": 64.2,
+        "weight": 0.7659648161818317
+      },
+      {
+        "gene": "ZNF281",
+        "jaspar": "MA1630.2",
+        "score": 1.6434120786304178,
+        "target_nTPM": 20.2,
+        "weight": 0.7643412078630418
+      },
+      {
+        "gene": "ZNF680",
+        "jaspar": "MA1729.1",
+        "score": 1.4595842928573342,
+        "target_nTPM": 18.8,
+        "weight": 0.7459584292857334
+      },
+      {
+        "gene": "ETS2",
+        "jaspar": "MA0760.1",
+        "score": 1.440038460419485,
+        "target_nTPM": 225.2,
+        "weight": 0.7440038460419485
+      },
+      {
+        "gene": "THRB",
+        "jaspar": "MA1574.1",
+        "score": 1.4337840400741448,
+        "target_nTPM": 18.8,
+        "weight": 0.7433784040074145
+      },
+      {
+        "gene": "ESRRA",
+        "jaspar": "MA0592.1",
+        "score": 1.4166320222488262,
+        "target_nTPM": 85.6,
+        "weight": 0.7416632022248826
+      },
+      {
+        "gene": "CEBPD",
+        "jaspar": "MA0836.1",
+        "score": 1.4087991941718638,
+        "target_nTPM": 360.2,
+        "weight": 0.7408799194171863
+      },
+      {
+        "gene": "NFIL3",
+        "jaspar": "MA0025.1",
+        "score": 1.3971633319827783,
+        "target_nTPM": 116.8,
+        "weight": 0.7397163331982778
+      },
+      {
+        "gene": "SALL4",
+        "jaspar": "UN0262.1",
+        "score": 1.3723931618703502,
+        "target_nTPM": 1.5,
+        "weight": 0.737239316187035
+      },
+      {
+        "gene": "SPIC",
+        "jaspar": "MA0687.1",
+        "score": 1.3357338944123929,
+        "target_nTPM": 2.0,
+        "weight": 0.7335733894412393
+      },
+      {
+        "gene": "RORA",
+        "jaspar": "MA0071.1",
+        "score": 1.334316442780423,
+        "target_nTPM": 26.8,
+        "weight": 0.7334316442780423
+      },
+      {
+        "gene": "KLF12",
+        "jaspar": "MA0742.2",
+        "score": 1.3157362611730938,
+        "target_nTPM": 9.2,
+        "weight": 0.7315736261173094
+      },
+      {
+        "gene": "KLF11",
+        "jaspar": "MA1512.1",
+        "score": 1.3063218665435896,
+        "target_nTPM": 33.0,
+        "weight": 0.7306321866543589
+      },
+      {
+        "gene": "ZFP1",
+        "jaspar": "UN0151.1",
+        "score": 1.2992188559808762,
+        "target_nTPM": 10.3,
+        "weight": 0.7299218855980876
+      },
+      {
+        "gene": "ZNF69",
+        "jaspar": "MA1986.1",
+        "score": 1.2941911867522569,
+        "target_nTPM": 8.4,
+        "weight": 0.7294191186752257
+      },
+      {
+        "gene": "ZNF513",
+        "jaspar": "UN0330.1",
+        "score": 1.2634067622795027,
+        "target_nTPM": 37.1,
+        "weight": 0.7263406762279503
+      },
+      {
+        "gene": "FOXO1",
+        "jaspar": "MA1936.1",
+        "score": 1.2503973942775009,
+        "target_nTPM": 36.0,
+        "weight": 0.7250397394277501
+      },
+      {
+        "gene": "STAT3",
+        "jaspar": "MA0144.2",
+        "score": 1.2261203175732005,
+        "target_nTPM": 130.1,
+        "weight": 0.72261203175732
+      },
+      {
+        "gene": "KLF9",
+        "jaspar": "MA1107.1",
+        "score": 1.202044663415916,
+        "target_nTPM": 84.9,
+        "weight": 0.7202044663415916
+      },
+      {
+        "gene": "ZBTB33",
+        "jaspar": "MA0527.1",
+        "score": 1.1950880977496905,
+        "target_nTPM": 17.8,
+        "weight": 0.719508809774969
+      },
+      {
+        "gene": "KLF10",
+        "jaspar": "MA1511.1",
+        "score": 1.1829615398378361,
+        "target_nTPM": 89.5,
+        "weight": 0.7182961539837835
+      },
+      {
+        "gene": "HLX",
+        "jaspar": "MA0707.1",
+        "score": 1.1402396441292122,
+        "target_nTPM": 18.9,
+        "weight": 0.7140239644129212
+      },
+      {
+        "gene": "SP5",
+        "jaspar": "MA1965.1",
+        "score": 1.1173103752788907,
+        "target_nTPM": 2.0,
+        "weight": 0.711731037527889
+      },
+      {
+        "gene": "ZBTB42",
+        "jaspar": "UN0312.1",
+        "score": 1.0881714815758143,
+        "target_nTPM": 5.5,
+        "weight": 0.7088171481575815
+      },
+      {
+        "gene": "ZNF700",
+        "jaspar": "MA2595.1",
+        "score": 1.0760463359213246,
+        "target_nTPM": 20.7,
+        "weight": 0.7076046335921324
+      },
+      {
+        "gene": "FOXP3",
+        "jaspar": "MA0850.1",
+        "score": 1.075169228766399,
+        "target_nTPM": 2.5,
+        "weight": 0.7075169228766399
+      },
+      {
+        "gene": "CEBPG",
+        "jaspar": "MA0838.1",
+        "score": 1.0704427620305876,
+        "target_nTPM": 32.3,
+        "weight": 0.7070442762030588
+      },
+      {
+        "gene": "HESX1",
+        "jaspar": "MA0894.1",
+        "score": 1.0622371321279387,
+        "target_nTPM": 3.5,
+        "weight": 0.7062237132127939
+      },
+      {
+        "gene": "ARNT",
+        "jaspar": "MA1464.1",
+        "score": 1.061437993431576,
+        "target_nTPM": 40.1,
+        "weight": 0.7061437993431576
+      },
+      {
+        "gene": "NFE2L2",
+        "jaspar": "MA0150.1",
+        "score": 1.0434479727634538,
+        "target_nTPM": 159.0,
+        "weight": 0.7043447972763454
+      },
+      {
+        "gene": "RREB1",
+        "jaspar": "MA0073.1",
+        "score": 1.0387720931327953,
+        "target_nTPM": 17.7,
+        "weight": 0.7038772093132795
+      }
+    ],
+    "muscle": [
+      {
+        "gene": "NKX2-5",
+        "jaspar": "MA0063.2",
+        "score": 6.028618433825527,
+        "target_nTPM": 77.96666666666667,
+        "weight": 1.0
+      },
+      {
+        "gene": "MYOD1",
+        "jaspar": "MA0499.2",
+        "score": 5.766366510606765,
+        "target_nTPM": 11.466666666666667,
+        "weight": 1.0
+      },
+      {
+        "gene": "LBX1",
+        "jaspar": "MA0618.1",
+        "score": 5.678071905112637,
+        "target_nTPM": 7.8999999999999995,
+        "weight": 1.0
+      },
+      {
+        "gene": "MYF6",
+        "jaspar": "MA0667.1",
+        "score": 5.109126087047697,
+        "target_nTPM": 157.29999999999998,
+        "weight": 1.0
+      },
+      {
+        "gene": "MYOG",
+        "jaspar": "MA1641.1",
+        "score": 4.722904600258293,
+        "target_nTPM": 32.800000000000004,
+        "weight": 1.0
+      },
+      {
+        "gene": "MAFA",
+        "jaspar": "MA1521.1",
+        "score": 4.528378972354789,
+        "target_nTPM": 7.3999999999999995,
+        "weight": 1.0
+      },
+      {
+        "gene": "TBX20",
+        "jaspar": "MA0689.1",
+        "score": 4.508572163818102,
+        "target_nTPM": 12.466666666666667,
+        "weight": 1.0
+      },
+      {
+        "gene": "PITX3",
+        "jaspar": "MA0714.1",
+        "score": 4.059942540456282,
+        "target_nTPM": 5.633333333333333,
+        "weight": 1.0
+      },
+      {
+        "gene": "HOXC10",
+        "jaspar": "MA0905.1",
+        "score": 4.021674699373839,
+        "target_nTPM": 35.666666666666664,
+        "weight": 1.0
+      },
+      {
+        "gene": "TBX5",
+        "jaspar": "MA0807.1",
+        "score": 3.9578465485850542,
+        "target_nTPM": 24.63333333333333,
+        "weight": 0.9957846548585054
+      },
+      {
+        "gene": "GBX1",
+        "jaspar": "MA0889.1",
+        "score": 3.772332636622878,
+        "target_nTPM": 3.8000000000000003,
+        "weight": 0.9772332636622878
+      },
+      {
+        "gene": "TCF15",
+        "jaspar": "UN0580.1",
+        "score": 3.708865058658241,
+        "target_nTPM": 21.36666666666667,
+        "weight": 0.970886505865824
+      },
+      {
+        "gene": "SIX1",
+        "jaspar": "MA1118.1",
+        "score": 3.016828396756239,
+        "target_nTPM": 37.266666666666666,
+        "weight": 0.9016828396756239
+      },
+      {
+        "gene": "MEF2C",
+        "jaspar": "MA0497.1",
+        "score": 2.9751664624935557,
+        "target_nTPM": 194.76666666666668,
+        "weight": 0.8975166462493556
+      },
+      {
+        "gene": "TBX15",
+        "jaspar": "MA0803.1",
+        "score": 2.9556058806415466,
+        "target_nTPM": 42.56666666666666,
+        "weight": 0.8955605880641546
+      },
+      {
+        "gene": "PAX7",
+        "jaspar": "MA0680.1",
+        "score": 2.9369902024742,
+        "target_nTPM": 1.7666666666666666,
+        "weight": 0.89369902024742
+      },
+      {
+        "gene": "SNAI3",
+        "jaspar": "MA1559.1",
+        "score": 2.858403721616182,
+        "target_nTPM": 10.566666666666668,
+        "weight": 0.8858403721616182
+      },
+      {
+        "gene": "EN1",
+        "jaspar": "MA0027.2",
+        "score": 2.710986527585373,
+        "target_nTPM": 4.333333333333333,
+        "weight": 0.8710986527585373
+      },
+      {
+        "gene": "MYF5",
+        "jaspar": "MA1641.1",
+        "score": 2.6938968722743204,
+        "target_nTPM": 1.7333333333333334,
+        "weight": 0.869389687227432
+      },
+      {
+        "gene": "TBX1",
+        "jaspar": "MA0805.1",
+        "score": 2.611321154284588,
+        "target_nTPM": 26.366666666666664,
+        "weight": 0.8611321154284588
+      },
+      {
+        "gene": "TEAD4",
+        "jaspar": "UN1179.1",
+        "score": 2.565722298261423,
+        "target_nTPM": 49.86666666666667,
+        "weight": 0.8565722298261422
+      },
+      {
+        "gene": "HOXC9",
+        "jaspar": "MA0485.2",
+        "score": 2.538095895683182,
+        "target_nTPM": 8.733333333333334,
+        "weight": 0.8538095895683182
+      },
+      {
+        "gene": "NFE2L1",
+        "jaspar": "MA0089.1",
+        "score": 2.4435827210917425,
+        "target_nTPM": 602.7666666666668,
+        "weight": 0.8443582721091742
+      },
+      {
+        "gene": "HAND1",
+        "jaspar": "MA2123.1",
+        "score": 2.4372546088415437,
+        "target_nTPM": 11.533333333333333,
+        "weight": 0.8437254608841543
+      },
+      {
+        "gene": "HOXC8",
+        "jaspar": "MA1505.1",
+        "score": 2.267632117572222,
+        "target_nTPM": 7.233333333333333,
+        "weight": 0.8267632117572222
+      },
+      {
+        "gene": "HOXA10",
+        "jaspar": "MA0899.1",
+        "score": 2.243633568910618,
+        "target_nTPM": 32.4,
+        "weight": 0.8243633568910618
+      },
+      {
+        "gene": "PITX2",
+        "jaspar": "MA1547.1",
+        "score": 2.1837525256105104,
+        "target_nTPM": 14.533333333333333,
+        "weight": 0.818375252561051
+      },
+      {
+        "gene": "PGR",
+        "jaspar": "MA2327.1",
+        "score": 2.1533464331210608,
+        "target_nTPM": 25.766666666666666,
+        "weight": 0.815334643312106
+      },
+      {
+        "gene": "SIX2",
+        "jaspar": "MA1119.1",
+        "score": 2.1235920361518277,
+        "target_nTPM": 11.166666666666666,
+        "weight": 0.8123592036151828
+      },
+      {
+        "gene": "MITF",
+        "jaspar": "MA0620.2",
+        "score": 2.1116523527663906,
+        "target_nTPM": 39.4,
+        "weight": 0.8111652352766391
+      },
+      {
+        "gene": "GATA4",
+        "jaspar": "MA0482.2",
+        "score": 2.1051219220934616,
+        "target_nTPM": 26.7,
+        "weight": 0.8105121922093461
+      },
+      {
+        "gene": "RXRG",
+        "jaspar": "MA0856.1",
+        "score": 2.098522900577846,
+        "target_nTPM": 17.7,
+        "weight": 0.8098522900577846
+      },
+      {
+        "gene": "NFIC",
+        "jaspar": "MA0161.1",
+        "score": 2.018158159043578,
+        "target_nTPM": 112.5,
+        "weight": 0.8018158159043578
+      },
+      {
+        "gene": "ESRRA",
+        "jaspar": "MA0592.1",
+        "score": 1.9353505657509578,
+        "target_nTPM": 108.63333333333334,
+        "weight": 0.7935350565750958
+      },
+      {
+        "gene": "NFIX",
+        "jaspar": "MA0671.1",
+        "score": 1.9000072711495593,
+        "target_nTPM": 175.23333333333335,
+        "weight": 0.790000727114956
+      },
+      {
+        "gene": "BCL6",
+        "jaspar": "MA0463.2",
+        "score": 1.8053579771673915,
+        "target_nTPM": 215.73333333333335,
+        "weight": 0.7805357977167391
+      },
+      {
+        "gene": "MEOX1",
+        "jaspar": "MA0661.1",
+        "score": 1.7725151094123996,
+        "target_nTPM": 13.366666666666667,
+        "weight": 0.7772515109412399
+      },
+      {
+        "gene": "RORC",
+        "jaspar": "MA1151.1",
+        "score": 1.720713583177885,
+        "target_nTPM": 36.06666666666667,
+        "weight": 0.7720713583177885
+      },
+      {
+        "gene": "EBF2",
+        "jaspar": "MA1933.1",
+        "score": 1.6491447196491353,
+        "target_nTPM": 5.166666666666667,
+        "weight": 0.7649144719649135
+      },
+      {
+        "gene": "SIX4",
+        "jaspar": "MA2001.1",
+        "score": 1.6399721151777449,
+        "target_nTPM": 4.633333333333334,
+        "weight": 0.7639972115177744
+      },
+      {
+        "gene": "ZBTB47",
+        "jaspar": "MA2543.1",
+        "score": 1.6289473940040198,
+        "target_nTPM": 59.56666666666666,
+        "weight": 0.762894739400402
+      },
+      {
+        "gene": "YBX1",
+        "jaspar": "UN0139.1",
+        "score": 1.5981290828345873,
+        "target_nTPM": 976.8000000000001,
+        "weight": 0.7598129082834587
+      },
+      {
+        "gene": "BNC2",
+        "jaspar": "MA1928.1",
+        "score": 1.5810772206390702,
+        "target_nTPM": 13.033333333333333,
+        "weight": 0.758107722063907
+      },
+      {
+        "gene": "HOXA11",
+        "jaspar": "MA0911.1",
+        "score": 1.5773214009556482,
+        "target_nTPM": 15.200000000000001,
+        "weight": 0.7577321400955648
+      },
+      {
+        "gene": "PAX3",
+        "jaspar": "MA0780.1",
+        "score": 1.5544405559442604,
+        "target_nTPM": 1.1666666666666667,
+        "weight": 0.7554440555944261
+      },
+      {
+        "gene": "FOXO1",
+        "jaspar": "MA1936.1",
+        "score": 1.5520137329107038,
+        "target_nTPM": 40.93333333333334,
+        "weight": 0.7552013732910704
+      },
+      {
+        "gene": "ARX",
+        "jaspar": "MA0874.1",
+        "score": 1.535910348484658,
+        "target_nTPM": 8.333333333333334,
+        "weight": 0.7535910348484658
+      },
+      {
+        "gene": "ZNF784",
+        "jaspar": "MA1717.1",
+        "score": 1.5350758809181524,
+        "target_nTPM": 18.966666666666665,
+        "weight": 0.7535075880918152
+      },
+      {
+        "gene": "ZNF423",
+        "jaspar": "MA0116.2",
+        "score": 1.493304556076107,
+        "target_nTPM": 13.366666666666667,
+        "weight": 0.7493304556076107
+      },
+      {
+        "gene": "HEY2",
+        "jaspar": "MA0649.1",
+        "score": 1.4926119245611844,
+        "target_nTPM": 15.500000000000002,
+        "weight": 0.7492611924561184
+      },
+      {
+        "gene": "ESRRB",
+        "jaspar": "MA0141.3",
+        "score": 1.46394709975979,
+        "target_nTPM": 3.5666666666666664,
+        "weight": 0.746394709975979
+      },
+      {
+        "gene": "E2F8",
+        "jaspar": "MA0865.1",
+        "score": 1.4531580236979005,
+        "target_nTPM": 4.8,
+        "weight": 0.74531580236979
+      },
+      {
+        "gene": "CASZ1",
+        "jaspar": "MA2508.1",
+        "score": 1.4501240086787193,
+        "target_nTPM": 18.166666666666668,
+        "weight": 0.7450124008678719
+      },
+      {
+        "gene": "MEF2D",
+        "jaspar": "MA0773.1",
+        "score": 1.442413148106419,
+        "target_nTPM": 77.63333333333334,
+        "weight": 0.7442413148106419
+      },
+      {
+        "gene": "TEAD1",
+        "jaspar": "MA0090.1",
+        "score": 1.437364026982255,
+        "target_nTPM": 39.333333333333336,
+        "weight": 0.7437364026982255
+      },
+      {
+        "gene": "TFEB",
+        "jaspar": "MA0692.1",
+        "score": 1.3753297913279576,
+        "target_nTPM": 36.13333333333333,
+        "weight": 0.7375329791327958
+      },
+      {
+        "gene": "MEF2A",
+        "jaspar": "MA0052.1",
+        "score": 1.3720615283620057,
+        "target_nTPM": 60.9,
+        "weight": 0.7372061528362006
+      },
+      {
+        "gene": "WT1",
+        "jaspar": "MA1627.1",
+        "score": 1.3667682901855918,
+        "target_nTPM": 11.166666666666666,
+        "weight": 0.7366768290185591
+      },
+      {
+        "gene": "SOX18",
+        "jaspar": "MA1563.1",
+        "score": 1.3532675481933563,
+        "target_nTPM": 30.633333333333336,
+        "weight": 0.7353267548193356
+      },
+      {
+        "gene": "ZBED1",
+        "jaspar": "MA0749.1",
+        "score": 1.316099524355179,
+        "target_nTPM": 35.666666666666664,
+        "weight": 0.7316099524355179
+      },
+      {
+        "gene": "ZNF530",
+        "jaspar": "MA1981.1",
+        "score": 1.3142070578233092,
+        "target_nTPM": 3.2000000000000006,
+        "weight": 0.7314207057823309
+      },
+      {
+        "gene": "PBX1",
+        "jaspar": "MA0070.1",
+        "score": 1.3118636400477843,
+        "target_nTPM": 61.800000000000004,
+        "weight": 0.7311863640047784
+      },
+      {
+        "gene": "ZNF41",
+        "jaspar": "UN0814.1",
+        "score": 1.284838776152142,
+        "target_nTPM": 9.9,
+        "weight": 0.7284838776152142
+      },
+      {
+        "gene": "EBF3",
+        "jaspar": "MA1637.1",
+        "score": 1.279205696504939,
+        "target_nTPM": 5.133333333333334,
+        "weight": 0.7279205696504939
+      },
+      {
+        "gene": "ZEB1",
+        "jaspar": "MA0103.1",
+        "score": 1.277353333815671,
+        "target_nTPM": 40.233333333333334,
+        "weight": 0.727735333381567
+      },
+      {
+        "gene": "PPARA",
+        "jaspar": "MA1148.1",
+        "score": 1.2758596214843496,
+        "target_nTPM": 18.166666666666668,
+        "weight": 0.727585962148435
+      },
+      {
+        "gene": "HAND2",
+        "jaspar": "MA1638.1",
+        "score": 1.267752954736323,
+        "target_nTPM": 24.399999999999995,
+        "weight": 0.7267752954736323
+      },
+      {
+        "gene": "MLXIP",
+        "jaspar": "MA0664.1",
+        "score": 1.2575904988326962,
+        "target_nTPM": 58.53333333333333,
+        "weight": 0.7257590498832696
+      },
+      {
+        "gene": "HSF1",
+        "jaspar": "MA0486.1",
+        "score": 1.1938250679541047,
+        "target_nTPM": 87.26666666666667,
+        "weight": 0.7193825067954105
+      },
+      {
+        "gene": "NFATC1",
+        "jaspar": "MA0624.1",
+        "score": 1.1880351552255952,
+        "target_nTPM": 16.266666666666666,
+        "weight": 0.7188035155225595
+      },
+      {
+        "gene": "BCL6B",
+        "jaspar": "MA0731.1",
+        "score": 1.1687418914159093,
+        "target_nTPM": 13.866666666666669,
+        "weight": 0.716874189141591
+      },
+      {
+        "gene": "KLF10",
+        "jaspar": "MA1511.1",
+        "score": 1.14374920101131,
+        "target_nTPM": 83.33333333333333,
+        "weight": 0.714374920101131
+      },
+      {
+        "gene": "IRX3",
+        "jaspar": "UN0130.1",
+        "score": 1.1345850641228492,
+        "target_nTPM": 27.266666666666666,
+        "weight": 0.7134585064122849
+      },
+      {
+        "gene": "ZBTB43",
+        "jaspar": "UN0148.1",
+        "score": 1.1179949819189445,
+        "target_nTPM": 15.233333333333334,
+        "weight": 0.7117994981918945
+      },
+      {
+        "gene": "ATF3",
+        "jaspar": "MA0605.2",
+        "score": 1.1060606136323492,
+        "target_nTPM": 144.86666666666667,
+        "weight": 0.7106060613632349
+      },
+      {
+        "gene": "HSF2",
+        "jaspar": "MA0770.1",
+        "score": 1.099895266579608,
+        "target_nTPM": 27.366666666666664,
+        "weight": 0.7099895266579608
+      },
+      {
+        "gene": "E2F6",
+        "jaspar": "MA0471.1",
+        "score": 1.095772959225925,
+        "target_nTPM": 8.333333333333334,
+        "weight": 0.7095772959225926
+      },
+      {
+        "gene": "NR4A1",
+        "jaspar": "MA1112.1",
+        "score": 1.0777534264786002,
+        "target_nTPM": 361.86666666666673,
+        "weight": 0.70777534264786
+      },
+      {
+        "gene": "RXRA",
+        "jaspar": "MA0115.1",
+        "score": 1.068610784365279,
+        "target_nTPM": 53.1,
+        "weight": 0.7068610784365279
+      },
+      {
+        "gene": "ESR1",
+        "jaspar": "MA0112.1",
+        "score": 1.0632432144008936,
+        "target_nTPM": 18.066666666666666,
+        "weight": 0.7063243214400894
+      },
+      {
+        "gene": "KLF9",
+        "jaspar": "MA1107.1",
+        "score": 1.0536478144765207,
+        "target_nTPM": 73.86666666666667,
+        "weight": 0.705364781447652
+      }
+    ],
+    "tcell": [
+      {
+        "gene": "SPIC",
+        "jaspar": "MA0687.1",
+        "score": 5.567586579949011,
+        "target_nTPM": 7.220000000000001,
+        "weight": 1.0
+      },
+      {
+        "gene": "PAX5",
+        "jaspar": "MA0014.2",
+        "score": 4.885449748817092,
+        "target_nTPM": 21.04,
+        "weight": 1.0
+      },
+      {
+        "gene": "LEF1",
+        "jaspar": "MA0768.1",
+        "score": 4.58623740437013,
+        "target_nTPM": 79.64,
+        "weight": 1.0
+      },
+      {
+        "gene": "TCF7",
+        "jaspar": "MA0769.2",
+        "score": 4.5100063324532265,
+        "target_nTPM": 148.2,
+        "weight": 1.0
+      },
+      {
+        "gene": "TLX1",
+        "jaspar": "MA0119.1",
+        "score": 4.353356247338616,
+        "target_nTPM": 11.32,
+        "weight": 1.0
+      },
+      {
+        "gene": "SPIB",
+        "jaspar": "MA0081.1",
+        "score": 4.2875055210836,
+        "target_nTPM": 49.739999999999995,
+        "weight": 1.0
+      },
+      {
+        "gene": "IKZF3",
+        "jaspar": "MA1992.1",
+        "score": 4.149476165416011,
+        "target_nTPM": 26.52,
+        "weight": 1.0
+      },
+      {
+        "gene": "SP140",
+        "jaspar": "MA2540.1",
+        "score": 4.126101230002293,
+        "target_nTPM": 31.9,
+        "weight": 1.0
+      },
+      {
+        "gene": "IRF8",
+        "jaspar": "UN0966.1",
+        "score": 3.532082859141074,
+        "target_nTPM": 117.92,
+        "weight": 0.9532082859141073
+      },
+      {
+        "gene": "POU2F2",
+        "jaspar": "MA0507.1",
+        "score": 3.419814031219184,
+        "target_nTPM": 29.54,
+        "weight": 0.9419814031219184
+      },
+      {
+        "gene": "IKZF1",
+        "jaspar": "MA1508.1",
+        "score": 3.3227982645919747,
+        "target_nTPM": 67.67999999999999,
+        "weight": 0.9322798264591975
+      },
+      {
+        "gene": "BACH2",
+        "jaspar": "MA1101.1",
+        "score": 3.2706204713609583,
+        "target_nTPM": 10.180000000000001,
+        "weight": 0.9270620471360959
+      },
+      {
+        "gene": "MYBL2",
+        "jaspar": "MA0777.1",
+        "score": 3.09663660988714,
+        "target_nTPM": 36.46,
+        "weight": 0.909663660988714
+      },
+      {
+        "gene": "ETS1",
+        "jaspar": "MA0098.1",
+        "score": 2.899580877388053,
+        "target_nTPM": 183.50000000000003,
+        "weight": 0.8899580877388054
+      },
+      {
+        "gene": "EOMES",
+        "jaspar": "MA0800.1",
+        "score": 2.8990710911492195,
+        "target_nTPM": 7.1,
+        "weight": 0.889907109114922
+      },
+      {
+        "gene": "BCL11B",
+        "jaspar": "UN0114.1",
+        "score": 2.821273813523552,
+        "target_nTPM": 11.9,
+        "weight": 0.8821273813523551
+      },
+      {
+        "gene": "FOXP3",
+        "jaspar": "MA0850.1",
+        "score": 2.6054441050252404,
+        "target_nTPM": 5.0200000000000005,
+        "weight": 0.860544410502524
+      },
+      {
+        "gene": "TBX21",
+        "jaspar": "UN0485.1",
+        "score": 2.587939641905178,
+        "target_nTPM": 4.54,
+        "weight": 0.8587939641905178
+      },
+      {
+        "gene": "ZNF80",
+        "jaspar": "MA2571.1",
+        "score": 2.583881425330825,
+        "target_nTPM": 1.06,
+        "weight": 0.8583881425330825
+      },
+      {
+        "gene": "MEF2B",
+        "jaspar": "MA0660.1",
+        "score": 2.571293365340678,
+        "target_nTPM": 18.259999999999998,
+        "weight": 0.8571293365340678
+      },
+      {
+        "gene": "MYBL1",
+        "jaspar": "MA0776.1",
+        "score": 2.5282962870837338,
+        "target_nTPM": 9.819999999999999,
+        "weight": 0.8528296287083734
+      },
+      {
+        "gene": "RUNX3",
+        "jaspar": "MA0684.1",
+        "score": 2.5267547237718797,
+        "target_nTPM": 24.78,
+        "weight": 0.8526754723771879
+      },
+      {
+        "gene": "IRF4",
+        "jaspar": "MA1419.1",
+        "score": 2.5195151229943105,
+        "target_nTPM": 17.699999999999996,
+        "weight": 0.851951512299431
+      },
+      {
+        "gene": "BATF",
+        "jaspar": "MA1634.1",
+        "score": 2.4931809547458577,
+        "target_nTPM": 20.34,
+        "weight": 0.8493180954745858
+      },
+      {
+        "gene": "ZNF101",
+        "jaspar": "UN0160.1",
+        "score": 2.480770958585275,
+        "target_nTPM": 19.0,
+        "weight": 0.8480770958585275
+      },
+      {
+        "gene": "FLI1",
+        "jaspar": "UN1109.1",
+        "score": 2.373869023299164,
+        "target_nTPM": 37.400000000000006,
+        "weight": 0.8373869023299164
+      },
+      {
+        "gene": "MIXL1",
+        "jaspar": "MA0662.1",
+        "score": 2.3223153435921136,
+        "target_nTPM": 1.52,
+        "weight": 0.8322315343592114
+      },
+      {
+        "gene": "TFEC",
+        "jaspar": "MA0871.1",
+        "score": 2.319606782977241,
+        "target_nTPM": 13.4,
+        "weight": 0.8319606782977241
+      },
+      {
+        "gene": "NR5A1",
+        "jaspar": "MA1540.1",
+        "score": 2.2966960581412565,
+        "target_nTPM": 27.499999999999993,
+        "weight": 0.8296696058141256
+      },
+      {
+        "gene": "GFI1",
+        "jaspar": "MA0038.2",
+        "score": 2.2504797650991883,
+        "target_nTPM": 15.520000000000001,
+        "weight": 0.8250479765099188
+      },
+      {
+        "gene": "MYB",
+        "jaspar": "MA2594.1",
+        "score": 2.1811697586099354,
+        "target_nTPM": 16.0,
+        "weight": 0.8181169758609935
+      },
+      {
+        "gene": "SATB1",
+        "jaspar": "MA1963.1",
+        "score": 2.147116715141401,
+        "target_nTPM": 92.34,
+        "weight": 0.81471167151414
+      },
+      {
+        "gene": "E2F7",
+        "jaspar": "MA0758.1",
+        "score": 2.133462358528071,
+        "target_nTPM": 2.38,
+        "weight": 0.8133462358528071
+      },
+      {
+        "gene": "ZBED2",
+        "jaspar": "MA1971.1",
+        "score": 2.1136504732635144,
+        "target_nTPM": 12.940000000000001,
+        "weight": 0.8113650473263514
+      },
+      {
+        "gene": "E2F2",
+        "jaspar": "MA0864.1",
+        "score": 2.0952688492286193,
+        "target_nTPM": 5.52,
+        "weight": 0.809526884922862
+      },
+      {
+        "gene": "FOXM1",
+        "jaspar": "MA2469.1",
+        "score": 2.002533761089955,
+        "target_nTPM": 13.280000000000001,
+        "weight": 0.8002533761089955
+      },
+      {
+        "gene": "E2F8",
+        "jaspar": "MA0865.1",
+        "score": 1.8766928274060406,
+        "target_nTPM": 5.640000000000001,
+        "weight": 0.787669282740604
+      },
+      {
+        "gene": "IKZF2",
+        "jaspar": "MA2326.1",
+        "score": 1.864947826582443,
+        "target_nTPM": 11.959999999999999,
+        "weight": 0.7864947826582442
+      },
+      {
+        "gene": "SPI1",
+        "jaspar": "MA0080.1",
+        "score": 1.7892911899688715,
+        "target_nTPM": 74.91999999999999,
+        "weight": 0.7789291189968871
+      },
+      {
+        "gene": "STAT1",
+        "jaspar": "MA0137.1",
+        "score": 1.6740591148537456,
+        "target_nTPM": 102.3,
+        "weight": 0.7674059114853745
+      },
+      {
+        "gene": "NFATC3",
+        "jaspar": "MA0625.1",
+        "score": 1.6617958829896673,
+        "target_nTPM": 33.24,
+        "weight": 0.7661795882989667
+      },
+      {
+        "gene": "RFX5",
+        "jaspar": "MA0510.1",
+        "score": 1.6085829723725578,
+        "target_nTPM": 53.25999999999999,
+        "weight": 0.7608582972372557
+      },
+      {
+        "gene": "NKX2-3",
+        "jaspar": "MA0672.1",
+        "score": 1.5823198556577172,
+        "target_nTPM": 6.540000000000001,
+        "weight": 0.7582319855657718
+      },
+      {
+        "gene": "ZNF215",
+        "jaspar": "MA2547.1",
+        "score": 1.5791966550298318,
+        "target_nTPM": 2.18,
+        "weight": 0.7579196655029832
+      },
+      {
+        "gene": "SP140L",
+        "jaspar": "MA2540.1",
+        "score": 1.5785491514694905,
+        "target_nTPM": 19.32,
+        "weight": 0.757854915146949
+      },
+      {
+        "gene": "PAX1",
+        "jaspar": "MA0779.1",
+        "score": 1.5606997002089809,
+        "target_nTPM": 10.180000000000001,
+        "weight": 0.756069970020898
+      },
+      {
+        "gene": "TCF3",
+        "jaspar": "UN1139.1",
+        "score": 1.5513437840639714,
+        "target_nTPM": 56.46,
+        "weight": 0.7551343784063971
+      },
+      {
+        "gene": "NFE2",
+        "jaspar": "MA0591.1",
+        "score": 1.4985200087302328,
+        "target_nTPM": 10.68,
+        "weight": 0.7498520008730233
+      },
+      {
+        "gene": "REL",
+        "jaspar": "UN0110.1",
+        "score": 1.474102944008293,
+        "target_nTPM": 12.48,
+        "weight": 0.7474102944008293
+      },
+      {
+        "gene": "IRF1",
+        "jaspar": "MA0050.1",
+        "score": 1.456763068918098,
+        "target_nTPM": 72.7,
+        "weight": 0.7456763068918097
+      },
+      {
+        "gene": "BCL11A",
+        "jaspar": "MA2324.1",
+        "score": 1.4470303900370733,
+        "target_nTPM": 26.240000000000002,
+        "weight": 0.7447030390037073
+      },
+      {
+        "gene": "IRF5",
+        "jaspar": "MA1420.1",
+        "score": 1.444676791815978,
+        "target_nTPM": 10.219999999999999,
+        "weight": 0.7444676791815978
+      },
+      {
+        "gene": "ZNF860",
+        "jaspar": "UN0664.1",
+        "score": 1.4401459478693757,
+        "target_nTPM": 2.0000000000000004,
+        "weight": 0.7440145947869375
+      },
+      {
+        "gene": "ZNF154",
+        "jaspar": "UN1255.1",
+        "score": 1.439961754439072,
+        "target_nTPM": 4.3,
+        "weight": 0.7439961754439072
+      },
+      {
+        "gene": "NFATC2",
+        "jaspar": "MA0152.1",
+        "score": 1.4122604146082698,
+        "target_nTPM": 10.28,
+        "weight": 0.7412260414608269
+      },
+      {
+        "gene": "KLF12",
+        "jaspar": "MA0742.2",
+        "score": 1.3609588659120195,
+        "target_nTPM": 8.459999999999999,
+        "weight": 0.736095886591202
+      },
+      {
+        "gene": "ELF1",
+        "jaspar": "MA0473.1",
+        "score": 1.3020191608490523,
+        "target_nTPM": 86.03999999999999,
+        "weight": 0.7302019160849053
+      },
+      {
+        "gene": "STAT4",
+        "jaspar": "MA0518.1",
+        "score": 1.2986839810429482,
+        "target_nTPM": 12.120000000000001,
+        "weight": 0.7298683981042948
+      },
+      {
+        "gene": "PRDM15",
+        "jaspar": "MA1616.1",
+        "score": 1.2892681354949809,
+        "target_nTPM": 5.16,
+        "weight": 0.7289268135494981
+      },
+      {
+        "gene": "NFKB1",
+        "jaspar": "MA0105.1",
+        "score": 1.2292158219286589,
+        "target_nTPM": 28.68,
+        "weight": 0.7229215821928658
+      },
+      {
+        "gene": "IRF2",
+        "jaspar": "MA0051.1",
+        "score": 1.2238172414782755,
+        "target_nTPM": 45.12,
+        "weight": 0.7223817241478275
+      },
+      {
+        "gene": "ZNF548",
+        "jaspar": "UN0333.1",
+        "score": 1.1936596719148809,
+        "target_nTPM": 17.04,
+        "weight": 0.719365967191488
+      },
+      {
+        "gene": "TP53",
+        "jaspar": "MA0106.1",
+        "score": 1.1694884709416866,
+        "target_nTPM": 34.739999999999995,
+        "weight": 0.7169488470941686
+      },
+      {
+        "gene": "ZNF366",
+        "jaspar": "UN0812.1",
+        "score": 1.1645098351501104,
+        "target_nTPM": 4.119999999999999,
+        "weight": 0.716450983515011
+      },
+      {
+        "gene": "SP4",
+        "jaspar": "MA1474.1",
+        "score": 1.1151357107214808,
+        "target_nTPM": 6.94,
+        "weight": 0.7115135710721481
+      },
+      {
+        "gene": "HMGA1",
+        "jaspar": "MA2124.1",
+        "score": 1.106530433933997,
+        "target_nTPM": 114.0,
+        "weight": 0.7106530433933997
+      },
+      {
+        "gene": "STAT2",
+        "jaspar": "MA1623.1",
+        "score": 1.0714351380429492,
+        "target_nTPM": 21.5,
+        "weight": 0.707143513804295
+      },
+      {
+        "gene": "PRDM1",
+        "jaspar": "MA0508.1",
+        "score": 1.0572215596471526,
+        "target_nTPM": 15.239999999999998,
+        "weight": 0.7057221559647152
+      },
+      {
+        "gene": "ELK3",
+        "jaspar": "UN1184.1",
+        "score": 1.0521017135134942,
+        "target_nTPM": 32.04,
+        "weight": 0.7052101713513494
+      },
+      {
+        "gene": "ELF4",
+        "jaspar": "MA0641.1",
+        "score": 1.0472427383704244,
+        "target_nTPM": 16.5,
+        "weight": 0.7047242738370424
+      },
+      {
+        "gene": "ZNF681",
+        "jaspar": "UN0649.1",
+        "score": 1.031708859727338,
+        "target_nTPM": 2.18,
+        "weight": 0.7031708859727338
+      },
+      {
+        "gene": "CTCF",
+        "jaspar": "MA0139.1",
+        "score": 1.0262315415731795,
+        "target_nTPM": 33.2,
+        "weight": 0.7026231541573179
+      },
+      {
+        "gene": "RUNX2",
+        "jaspar": "MA0511.1",
+        "score": 1.0017353992159337,
+        "target_nTPM": 4.24,
+        "weight": 0.7001735399215934
+      },
+      {
+        "gene": "ZNF92",
+        "jaspar": "UN0556.1",
+        "score": 1.0009250021951137,
+        "target_nTPM": 8.040000000000001,
+        "weight": 0.7000925002195113
+      },
+      {
+        "gene": "ZBTB14",
+        "jaspar": "MA1650.1",
+        "score": 0.9890945156669586,
+        "target_nTPM": 18.580000000000002,
+        "weight": 0.6989094515666958
+      },
+      {
+        "gene": "TGIF2",
+        "jaspar": "UN1185.1",
+        "score": 0.9841374684265745,
+        "target_nTPM": 15.080000000000002,
+        "weight": 0.6984137468426574
+      },
+      {
+        "gene": "E2F1",
+        "jaspar": "MA0024.1",
+        "score": 0.9801300724704074,
+        "target_nTPM": 6.859999999999999,
+        "weight": 0.6980130072470407
+      },
+      {
+        "gene": "NFATC1",
+        "jaspar": "MA0624.1",
+        "score": 0.978944924563247,
+        "target_nTPM": 13.8,
+        "weight": 0.6978944924563246
+      },
+      {
+        "gene": "ZNF93",
+        "jaspar": "MA1721.1",
+        "score": 0.9645946638688004,
+        "target_nTPM": 4.239999999999999,
+        "weight": 0.69645946638688
+      },
+      {
+        "gene": "ELK4",
+        "jaspar": "MA0076.1",
+        "score": 0.9603149364915653,
+        "target_nTPM": 14.180000000000001,
+        "weight": 0.6960314936491565
+      }
+    ],
+    "stem": [
+      {
+        "gene": "DMRTB1",
+        "jaspar": "MA2484.1",
+        "score": 7.381429106636024,
+        "target_nTPM": 19.7,
+        "weight": 1.0
+      },
+      {
+        "gene": "SOX30",
+        "jaspar": "MA2684.1",
+        "score": 6.966490737809749,
+        "target_nTPM": 25.433333333333334,
+        "weight": 1.0
+      },
+      {
+        "gene": "DMRTC2",
+        "jaspar": "MA1479.1",
+        "score": 6.544935606849579,
+        "target_nTPM": 12.933333333333332,
+        "weight": 1.0
+      },
+      {
+        "gene": "HSF5",
+        "jaspar": "MA2676.1",
+        "score": 6.462550960481476,
+        "target_nTPM": 15.333333333333334,
+        "weight": 1.0
+      },
+      {
+        "gene": "DMRT1",
+        "jaspar": "MA1603.1",
+        "score": 6.266432982295659,
+        "target_nTPM": 8.4,
+        "weight": 1.0
+      },
+      {
+        "gene": "KLF1",
+        "jaspar": "MA0493.2",
+        "score": 6.02191477642844,
+        "target_nTPM": 13.166666666666666,
+        "weight": 1.0
+      },
+      {
+        "gene": "GATA1",
+        "jaspar": "MA0035.4",
+        "score": 5.785365918284546,
+        "target_nTPM": 19.433333333333334,
+        "weight": 1.0
+      },
+      {
+        "gene": "GFI1B",
+        "jaspar": "MA0483.1",
+        "score": 5.6033410300360105,
+        "target_nTPM": 13.066666666666665,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZBTB32",
+        "jaspar": "MA1580.1",
+        "score": 5.323437979945,
+        "target_nTPM": 15.833333333333334,
+        "weight": 1.0
+      },
+      {
+        "gene": "CEBPE",
+        "jaspar": "MA0837.1",
+        "score": 5.211504105193712,
+        "target_nTPM": 14.566666666666668,
+        "weight": 1.0
+      },
+      {
+        "gene": "TGIF2LX",
+        "jaspar": "UN1185.1",
+        "score": 4.890770930245242,
+        "target_nTPM": 2.8666666666666667,
+        "weight": 1.0
+      },
+      {
+        "gene": "ESX1",
+        "jaspar": "MA0644.1",
+        "score": 4.874469117916141,
+        "target_nTPM": 2.8333333333333335,
+        "weight": 1.0
+      },
+      {
+        "gene": "GCM1",
+        "jaspar": "MA0646.1",
+        "score": 4.720314353616042,
+        "target_nTPM": 6.6000000000000005,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZNF683",
+        "jaspar": "MA2522.1",
+        "score": 4.67551425842878,
+        "target_nTPM": 26.2,
+        "weight": 1.0
+      },
+      {
+        "gene": "HSFY1",
+        "jaspar": "UN0127.1",
+        "score": 4.569695744067846,
+        "target_nTPM": 4.6000000000000005,
+        "weight": 1.0
+      },
+      {
+        "gene": "ZNF560",
+        "jaspar": "UN0631.1",
+        "score": 4.021373650792567,
+        "target_nTPM": 2.1666666666666665,
+        "weight": 1.0
+      },
+      {
+        "gene": "NFE2",
+        "jaspar": "MA0591.1",
+        "score": 3.9144446279448024,
+        "target_nTPM": 37.0,
+        "weight": 0.9914444627944803
+      },
+      {
+        "gene": "CTCFL",
+        "jaspar": "MA0139.1",
+        "score": 3.8613947617704936,
+        "target_nTPM": 3.866666666666667,
+        "weight": 0.9861394761770493
+      },
+      {
+        "gene": "TGIF2LY",
+        "jaspar": "MA1572.1",
+        "score": 3.736965594166206,
+        "target_nTPM": 1.2333333333333334,
+        "weight": 0.9736965594166206
+      },
+      {
+        "gene": "RHOXF2",
+        "jaspar": "UN0134.1",
+        "score": 3.664396968215561,
+        "target_nTPM": 1.3,
+        "weight": 0.9664396968215561
+      },
+      {
+        "gene": "KLF17",
+        "jaspar": "MA1514.1",
+        "score": 3.5295493804025493,
+        "target_nTPM": 2.6666666666666665,
+        "weight": 0.9529549380402549
+      },
+      {
+        "gene": "SOHLH2",
+        "jaspar": "MA1560.1",
+        "score": 3.5242084696420597,
+        "target_nTPM": 9.200000000000001,
+        "weight": 0.9524208469642059
+      },
+      {
+        "gene": "PRDM9",
+        "jaspar": "MA1723.1",
+        "score": 3.4694852833012195,
+        "target_nTPM": 1.3999999999999997,
+        "weight": 0.946948528330122
+      },
+      {
+        "gene": "GSC2",
+        "jaspar": "MA0891.1",
+        "score": 3.3652844640817445,
+        "target_nTPM": 1.1666666666666667,
+        "weight": 0.9365284464081745
+      },
+      {
+        "gene": "OVOL3",
+        "jaspar": "UN0806.1",
+        "score": 3.132103536007345,
+        "target_nTPM": 1.2333333333333334,
+        "weight": 0.9132103536007345
+      },
+      {
+        "gene": "GFI1",
+        "jaspar": "MA0038.2",
+        "score": 3.0376212984219784,
+        "target_nTPM": 25.799999999999997,
+        "weight": 0.9037621298421978
+      },
+      {
+        "gene": "RFX4",
+        "jaspar": "MA0799.1",
+        "score": 2.99183763004664,
+        "target_nTPM": 23.400000000000002,
+        "weight": 0.899183763004664
+      },
+      {
+        "gene": "E2F2",
+        "jaspar": "MA0864.1",
+        "score": 2.893634988058969,
+        "target_nTPM": 9.266666666666666,
+        "weight": 0.8893634988058969
+      },
+      {
+        "gene": "NR6A1",
+        "jaspar": "MA1541.1",
+        "score": 2.8929001311180023,
+        "target_nTPM": 9.200000000000001,
+        "weight": 0.8892900131118002
+      },
+      {
+        "gene": "ARID3A",
+        "jaspar": "MA0151.1",
+        "score": 2.8654989644115885,
+        "target_nTPM": 15.933333333333332,
+        "weight": 0.8865498964411589
+      },
+      {
+        "gene": "GBX1",
+        "jaspar": "MA0889.1",
+        "score": 2.852569636344774,
+        "target_nTPM": 2.533333333333333,
+        "weight": 0.8852569636344774
+      },
+      {
+        "gene": "TAL1",
+        "jaspar": "UN0808.1",
+        "score": 2.7535621046969005,
+        "target_nTPM": 11.799999999999999,
+        "weight": 0.87535621046969
+      },
+      {
+        "gene": "MYBL2",
+        "jaspar": "MA0777.1",
+        "score": 2.6518840932764385,
+        "target_nTPM": 35.56666666666666,
+        "weight": 0.8651884093276438
+      },
+      {
+        "gene": "ZNF492",
+        "jaspar": "UN0622.1",
+        "score": 2.6003925412907627,
+        "target_nTPM": 1.4666666666666668,
+        "weight": 0.8600392541290762
+      },
+      {
+        "gene": "ETV2",
+        "jaspar": "MA0762.1",
+        "score": 2.5709420304062216,
+        "target_nTPM": 6.3,
+        "weight": 0.8570942030406221
+      },
+      {
+        "gene": "TBX4",
+        "jaspar": "UN1073.1",
+        "score": 2.5536810428754473,
+        "target_nTPM": 6.933333333333334,
+        "weight": 0.8553681042875447
+      },
+      {
+        "gene": "ZFP42",
+        "jaspar": "MA1651.1",
+        "score": 2.505235308250422,
+        "target_nTPM": 1.0,
+        "weight": 0.8505235308250422
+      },
+      {
+        "gene": "IKZF1",
+        "jaspar": "MA1508.1",
+        "score": 2.4500154191029955,
+        "target_nTPM": 55.1,
+        "weight": 0.8450015419102995
+      },
+      {
+        "gene": "SPI1",
+        "jaspar": "MA0080.1",
+        "score": 2.431934183724952,
+        "target_nTPM": 115.36666666666666,
+        "weight": 0.8431934183724952
+      },
+      {
+        "gene": "NKX2-8",
+        "jaspar": "MA0673.1",
+        "score": 2.4239706240488514,
+        "target_nTPM": 1.7,
+        "weight": 0.8423970624048851
+      },
+      {
+        "gene": "SOX6",
+        "jaspar": "MA0515.1",
+        "score": 2.3965263225813107,
+        "target_nTPM": 13.666666666666666,
+        "weight": 0.839652632258131
+      },
+      {
+        "gene": "MSX2",
+        "jaspar": "MA0708.1",
+        "score": 2.349334252228014,
+        "target_nTPM": 12.299999999999999,
+        "weight": 0.8349334252228013
+      },
+      {
+        "gene": "ARID3B",
+        "jaspar": "MA0601.1",
+        "score": 2.2776811817981955,
+        "target_nTPM": 19.7,
+        "weight": 0.8277681181798195
+      },
+      {
+        "gene": "ZFAT",
+        "jaspar": "UN0676.1",
+        "score": 2.2443006723461494,
+        "target_nTPM": 10.866666666666667,
+        "weight": 0.824430067234615
+      },
+      {
+        "gene": "HLX",
+        "jaspar": "MA0707.1",
+        "score": 2.244073316749399,
+        "target_nTPM": 34.166666666666664,
+        "weight": 0.8244073316749398
+      },
+      {
+        "gene": "SOX5",
+        "jaspar": "MA0087.1",
+        "score": 2.2333341716183734,
+        "target_nTPM": 12.399999999999999,
+        "weight": 0.8233334171618374
+      },
+      {
+        "gene": "FOXM1",
+        "jaspar": "MA2469.1",
+        "score": 2.219009781941796,
+        "target_nTPM": 16.46666666666667,
+        "weight": 0.8219009781941796
+      },
+      {
+        "gene": "E2F1",
+        "jaspar": "MA0024.1",
+        "score": 2.2137340605192697,
+        "target_nTPM": 14.666666666666666,
+        "weight": 0.821373406051927
+      },
+      {
+        "gene": "E2F7",
+        "jaspar": "MA0758.1",
+        "score": 2.2070962342399367,
+        "target_nTPM": 2.766666666666667,
+        "weight": 0.8207096234239937
+      },
+      {
+        "gene": "ZNF165",
+        "jaspar": "UN1256.1",
+        "score": 2.1790826275013346,
+        "target_nTPM": 7.966666666666668,
+        "weight": 0.8179082627501335
+      },
+      {
+        "gene": "RUNX3",
+        "jaspar": "MA0684.1",
+        "score": 2.133099135720167,
+        "target_nTPM": 23.066666666666666,
+        "weight": 0.8133099135720168
+      },
+      {
+        "gene": "PLAGL1",
+        "jaspar": "MA1615.1",
+        "score": 2.0454462949471184,
+        "target_nTPM": 86.7,
+        "weight": 0.8045446294947118
+      },
+      {
+        "gene": "ZNF800",
+        "jaspar": "MA2571.1",
+        "score": 2.024371675740485,
+        "target_nTPM": 32.733333333333334,
+        "weight": 0.8024371675740485
+      },
+      {
+        "gene": "ZBTB43",
+        "jaspar": "UN0148.1",
+        "score": 2.01819429339323,
+        "target_nTPM": 25.833333333333332,
+        "weight": 0.801819429339323
+      },
+      {
+        "gene": "PITX2",
+        "jaspar": "MA1547.1",
+        "score": 2.0181018063753107,
+        "target_nTPM": 13.266666666666666,
+        "weight": 0.8018101806375311
+      },
+      {
+        "gene": "DLX4",
+        "jaspar": "UN0937.1",
+        "score": 1.9820780920027374,
+        "target_nTPM": 1.2333333333333332,
+        "weight": 0.7982078092002738
+      },
+      {
+        "gene": "BACH1",
+        "jaspar": "MA1633.1",
+        "score": 1.9795358974402844,
+        "target_nTPM": 52.4,
+        "weight": 0.7979535897440284
+      },
+      {
+        "gene": "ZNF730",
+        "jaspar": "UN1260.1",
+        "score": 1.960947223436225,
+        "target_nTPM": 2.6333333333333333,
+        "weight": 0.7960947223436226
+      },
+      {
+        "gene": "DLX6",
+        "jaspar": "MA0882.1",
+        "score": 1.9505313237357005,
+        "target_nTPM": 2.766666666666667,
+        "weight": 0.79505313237357
+      },
+      {
+        "gene": "TBX21",
+        "jaspar": "UN0485.1",
+        "score": 1.9314357135169289,
+        "target_nTPM": 3.6666666666666665,
+        "weight": 0.7931435713516929
+      },
+      {
+        "gene": "ZNF394",
+        "jaspar": "UN0813.1",
+        "score": 1.8655595879557112,
+        "target_nTPM": 36.333333333333336,
+        "weight": 0.786555958795571
+      },
+      {
+        "gene": "RHOXF1",
+        "jaspar": "MA0719.1",
+        "score": 1.8405217859928034,
+        "target_nTPM": 5.033333333333333,
+        "weight": 0.7840521785992803
+      },
+      {
+        "gene": "TBX5",
+        "jaspar": "MA0807.1",
+        "score": 1.8312455422656253,
+        "target_nTPM": 9.033333333333333,
+        "weight": 0.7831245542265626
+      },
+      {
+        "gene": "RFX2",
+        "jaspar": "MA0600.1",
+        "score": 1.809842566196907,
+        "target_nTPM": 21.666666666666668,
+        "weight": 0.7809842566196907
+      },
+      {
+        "gene": "IRF4",
+        "jaspar": "MA1419.1",
+        "score": 1.7471698454427482,
+        "target_nTPM": 13.299999999999999,
+        "weight": 0.7747169845442748
+      },
+      {
+        "gene": "CREM",
+        "jaspar": "MA0609.2",
+        "score": 1.73056007589374,
+        "target_nTPM": 102.90000000000002,
+        "weight": 0.773056007589374
+      },
+      {
+        "gene": "HIF1A",
+        "jaspar": "MA1106.1",
+        "score": 1.7142257308861142,
+        "target_nTPM": 175.53333333333333,
+        "weight": 0.7714225730886114
+      },
+      {
+        "gene": "ELF4",
+        "jaspar": "MA0641.1",
+        "score": 1.6707903899138266,
+        "target_nTPM": 24.933333333333334,
+        "weight": 0.7670790389913826
+      },
+      {
+        "gene": "ZNF257",
+        "jaspar": "MA1710.1",
+        "score": 1.6613931639660076,
+        "target_nTPM": 2.766666666666667,
+        "weight": 0.7661393163966007
+      }
+    ],
+    "ubiquitous": [
+      {
+        "gene": "ADNP",
+        "jaspar": "UN0305.1",
+        "score": 0.9431248238125033,
+        "target_nTPM": 29.050980392156863,
+        "weight": 0.6943124823812503
+      },
+      {
+        "gene": "ZNF721",
+        "jaspar": "MA2526.1",
+        "score": 0.9250449117966341,
+        "target_nTPM": 12.52156862745098,
+        "weight": 0.6925044911796634
+      },
+      {
+        "gene": "ZNF780A",
+        "jaspar": "UN0227.1",
+        "score": 0.9224901458719761,
+        "target_nTPM": 2.488235294117647,
+        "weight": 0.6922490145871976
+      },
+      {
+        "gene": "ZNF585A",
+        "jaspar": "UN0637.1",
+        "score": 0.9224102181607021,
+        "target_nTPM": 7.637254901960785,
+        "weight": 0.6922410218160702
+      },
+      {
+        "gene": "ZNF24",
+        "jaspar": "MA1124.1",
+        "score": 0.9215646695018381,
+        "target_nTPM": 21.411764705882348,
+        "weight": 0.6921564669501838
+      },
+      {
+        "gene": "ZNF773",
+        "jaspar": "MA2530.1",
+        "score": 0.9207518749639422,
+        "target_nTPM": 3.6882352941176464,
+        "weight": 0.6920751874963942
+      },
+      {
+        "gene": "ZNF143",
+        "jaspar": "MA0088.2",
+        "score": 0.9195187722522287,
+        "target_nTPM": 9.633333333333333,
+        "weight": 0.6919518772252229
+      },
+      {
+        "gene": "ZSCAN21",
+        "jaspar": "MA2336.1",
+        "score": 0.9180087782122163,
+        "target_nTPM": 8.01372549019608,
+        "weight": 0.6918008778212216
+      },
+      {
+        "gene": "ZNF84",
+        "jaspar": "UN0239.1",
+        "score": 0.9162217475248968,
+        "target_nTPM": 13.027450980392157,
+        "weight": 0.6916221747524897
+      },
+      {
+        "gene": "ZNF565",
+        "jaspar": "UN0204.1",
+        "score": 0.9160964047443682,
+        "target_nTPM": 2.901960784313725,
+        "weight": 0.6916096404744367
+      },
+      {
+        "gene": "ZNF263",
+        "jaspar": "MA0528.1",
+        "score": 0.91542932788241,
+        "target_nTPM": 14.431372549019608,
+        "weight": 0.691542932788241
+      },
+      {
+        "gene": "NRF1",
+        "jaspar": "MA0506.1",
+        "score": 0.9154061147681166,
+        "target_nTPM": 8.472549019607843,
+        "weight": 0.6915406114768117
+      },
+      {
+        "gene": "ZSCAN29",
+        "jaspar": "MA1602.1",
+        "score": 0.9133641939417576,
+        "target_nTPM": 5.219607843137255,
+        "weight": 0.6913364193941758
+      },
+      {
+        "gene": "ZNF558",
+        "jaspar": "MA2335.1",
+        "score": 0.9131517202916897,
+        "target_nTPM": 8.358823529411765,
+        "weight": 0.6913151720291689
+      },
+      {
+        "gene": "FOXJ3",
+        "jaspar": "MA0851.1",
+        "score": 0.9125480786766609,
+        "target_nTPM": 17.788235294117648,
+        "weight": 0.6912548078676661
+      },
+      {
+        "gene": "ZNF182",
+        "jaspar": "UN0597.1",
+        "score": 0.9111196210668224,
+        "target_nTPM": 4.629411764705882,
+        "weight": 0.6911119621066822
+      },
+      {
+        "gene": "ZNF174",
+        "jaspar": "UN0164.1",
+        "score": 0.9109656514202238,
+        "target_nTPM": 7.464705882352941,
+        "weight": 0.6910965651420223
+      },
+      {
+        "gene": "ZNF627",
+        "jaspar": "UN0644.1",
+        "score": 0.9101766697042566,
+        "target_nTPM": 6.392156862745098,
+        "weight": 0.6910176669704257
+      },
+      {
+        "gene": "ZNF45",
+        "jaspar": "UN0325.1",
+        "score": 0.9099884756187888,
+        "target_nTPM": 5.258823529411765,
+        "weight": 0.6909988475618789
+      },
+      {
+        "gene": "ZNF354A",
+        "jaspar": "MA1978.1",
+        "score": 0.909927283969104,
+        "target_nTPM": 7.625490196078431,
+        "weight": 0.6909927283969104
+      },
+      {
+        "gene": "ZNF134",
+        "jaspar": "MA2491.1",
+        "score": 0.9096322538971198,
+        "target_nTPM": 5.91764705882353,
+        "weight": 0.690963225389712
+      },
+      {
+        "gene": "ZNF175",
+        "jaspar": "MA2332.1",
+        "score": 0.9096322538971198,
+        "target_nTPM": 4.609803921568627,
+        "weight": 0.690963225389712
+      },
+      {
+        "gene": "ZNF18",
+        "jaspar": "MA2492.1",
+        "score": 0.9093685067950861,
+        "target_nTPM": 6.5588235294117645,
+        "weight": 0.6909368506795086
+      },
+      {
+        "gene": "ZKSCAN8",
+        "jaspar": "UN0592.1",
+        "score": 0.9083004975719464,
+        "target_nTPM": 8.974509803921569,
+        "weight": 0.6908300497571946
+      },
+      {
+        "gene": "ZNF410",
+        "jaspar": "MA0752.1",
+        "score": 0.9078907546889649,
+        "target_nTPM": 25.57450980392157,
+        "weight": 0.6907890754688965
+      },
+      {
+        "gene": "ATF7",
+        "jaspar": "MA0834.1",
+        "score": 0.9074723694270647,
+        "target_nTPM": 17.45686274509804,
+        "weight": 0.6907472369427065
+      },
+      {
+        "gene": "ZNF250",
+        "jaspar": "MA2462.1",
+        "score": 0.9072925433231728,
+        "target_nTPM": 4.529411764705881,
+        "weight": 0.6907292543323172
+      },
+      {
+        "gene": "TFCP2",
+        "jaspar": "MA0647.1",
+        "score": 0.9071370086058042,
+        "target_nTPM": 14.517647058823531,
+        "weight": 0.6907137008605804
+      },
+      {
+        "gene": "ZNF7",
+        "jaspar": "MA2521.1",
+        "score": 0.9065822002905235,
+        "target_nTPM": 14.592156862745096,
+        "weight": 0.6906582200290523
+      },
+      {
+        "gene": "ZNF740",
+        "jaspar": "MA0753.1",
+        "score": 0.9062765441041929,
+        "target_nTPM": 5.568627450980392,
+        "weight": 0.6906276544104193
+      },
+      {
+        "gene": "SP2",
+        "jaspar": "MA0516.1",
+        "score": 0.906024764609328,
+        "target_nTPM": 13.554901960784315,
+        "weight": 0.6906024764609328
+      },
+      {
+        "gene": "NFYC",
+        "jaspar": "MA1644.1",
+        "score": 0.9056764472815207,
+        "target_nTPM": 31.02745098039216,
+        "weight": 0.690567644728152
+      },
+      {
+        "gene": "ZNF324",
+        "jaspar": "MA1977.1",
+        "score": 0.9056237364629206,
+        "target_nTPM": 3.580392156862745,
+        "weight": 0.690562373646292
+      },
+      {
+        "gene": "ZNF317",
+        "jaspar": "MA1593.1",
+        "score": 0.9055946440035448,
+        "target_nTPM": 14.949019607843137,
+        "weight": 0.6905594644003544
+      },
+      {
+        "gene": "ZNF696",
+        "jaspar": "MA2524.1",
+        "score": 0.9055091458875212,
+        "target_nTPM": 3.43921568627451,
+        "weight": 0.6905509145887521
+      },
+      {
+        "gene": "ZNF274",
+        "jaspar": "MA1592.1",
+        "score": 0.9045182013826332,
+        "target_nTPM": 12.494117647058822,
+        "weight": 0.6904518201382633
+      },
+      {
+        "gene": "ZNF131",
+        "jaspar": "MA2546.1",
+        "score": 0.9043078321874857,
+        "target_nTPM": 11.22156862745098,
+        "weight": 0.6904307832187485
+      },
+      {
+        "gene": "ZNF75A",
+        "jaspar": "MA2097.1",
+        "score": 0.9039717233747202,
+        "target_nTPM": 8.331372549019607,
+        "weight": 0.690397172337472
+      },
+      {
+        "gene": "ZNF786",
+        "jaspar": "UN0659.1",
+        "score": 0.9039717233747202,
+        "target_nTPM": 2.505882352941176,
+        "weight": 0.690397172337472
+      },
+      {
+        "gene": "ZNF146",
+        "jaspar": "MA2458.1",
+        "score": 0.9030700272332072,
+        "target_nTPM": 26.778431372549022,
+        "weight": 0.6903070027233207
+      },
+      {
+        "gene": "SMAD4",
+        "jaspar": "MA1153.1",
+        "score": 0.9026790520102422,
+        "target_nTPM": 8.390196078431373,
+        "weight": 0.6902679052010242
+      },
+      {
+        "gene": "ZNF223",
+        "jaspar": "UN0603.1",
+        "score": 0.9022901844806562,
+        "target_nTPM": 3.6862745098039214,
+        "weight": 0.6902290184480656
+      },
+      {
+        "gene": "ZNF71",
+        "jaspar": "UN1259.1",
+        "score": 0.90165834319676,
+        "target_nTPM": 2.5784313725490198,
+        "weight": 0.6901658343196759
+      },
+      {
+        "gene": "THAP1",
+        "jaspar": "MA0597.1",
+        "score": 0.9012123773123338,
+        "target_nTPM": 6.121568627450981,
+        "weight": 0.6901212377312334
+      },
+      {
+        "gene": "ATF2",
+        "jaspar": "MA1632.1",
+        "score": 0.9007249784847557,
+        "target_nTPM": 17.25294117647059,
+        "weight": 0.6900724978484756
+      },
+      {
+        "gene": "ZNF77",
+        "jaspar": "UN0655.1",
+        "score": 0.9,
+        "target_nTPM": 2.6117647058823525,
+        "weight": 0.69
+      },
+      {
+        "gene": "ZNF587",
+        "jaspar": "UN0639.1",
+        "score": 0.8994206012862394,
+        "target_nTPM": 6.060784313725489,
+        "weight": 0.6899420601286239
+      },
+      {
+        "gene": "ZNF195",
+        "jaspar": "UN0600.1",
+        "score": 0.898481317547824,
+        "target_nTPM": 9.698039215686276,
+        "weight": 0.6898481317547824
+      },
+      {
+        "gene": "NR2C1",
+        "jaspar": "MA1535.1",
+        "score": 0.8983416568032401,
+        "target_nTPM": 7.470588235294117,
+        "weight": 0.689834165680324
+      },
+      {
+        "gene": "ZSCAN16",
+        "jaspar": "MA2100.1",
+        "score": 0.8983026334038331,
+        "target_nTPM": 4.633333333333334,
+        "weight": 0.6898302633403833
+      },
+      {
+        "gene": "PATZ1",
+        "jaspar": "MA1961.1",
+        "score": 0.8981581615909814,
+        "target_nTPM": 12.494117647058822,
+        "weight": 0.6898158161590981
+      },
+      {
+        "gene": "ZBED5",
+        "jaspar": "MA2602.1",
+        "score": 0.8980835940670451,
+        "target_nTPM": 29.25490196078431,
+        "weight": 0.6898083594067045
+      },
+      {
+        "gene": "ZNF506",
+        "jaspar": "UN0198.1",
+        "score": 0.8975265661867851,
+        "target_nTPM": 9.79607843137255,
+        "weight": 0.6897526566186785
+      },
+      {
+        "gene": "ZNF3",
+        "jaspar": "UN0121.1",
+        "score": 0.8974387338322414,
+        "target_nTPM": 14.862745098039218,
+        "weight": 0.6897438733832242
+      },
+      {
+        "gene": "ZNF528",
+        "jaspar": "MA1597.1",
+        "score": 0.8971865890176627,
+        "target_nTPM": 9.215686274509803,
+        "weight": 0.6897186589017663
+      },
+      {
+        "gene": "ZNF416",
+        "jaspar": "MA1979.1",
+        "score": 0.8970553155473215,
+        "target_nTPM": 2.503921568627451,
+        "weight": 0.6897055315547321
+      },
+      {
+        "gene": "ZNF799",
+        "jaspar": "UN0662.1",
+        "score": 0.8967934831290142,
+        "target_nTPM": 2.280392156862745,
+        "weight": 0.6896793483129013
+      },
+      {
+        "gene": "ZNF500",
+        "jaspar": "MA2585.1",
+        "score": 0.8962355936347881,
+        "target_nTPM": 3.052941176470588,
+        "weight": 0.6896235593634787
+      },
+      {
+        "gene": "DMTF1",
+        "jaspar": "MA2594.1",
+        "score": 0.8962025573383351,
+        "target_nTPM": 20.584313725490194,
+        "weight": 0.6896202557338335
+      },
+      {
+        "gene": "ZNF17",
+        "jaspar": "UN0164.1",
+        "score": 0.8945187754412751,
+        "target_nTPM": 3.488235294117647,
+        "weight": 0.6894518775441275
+      },
+      {
+        "gene": "ZNF304",
+        "jaspar": "UN0176.1",
+        "score": 0.8944788005153175,
+        "target_nTPM": 4.615686274509804,
+        "weight": 0.6894478800515318
+      },
+      {
+        "gene": "RBPJ",
+        "jaspar": "MA1116.1",
+        "score": 0.8940398646496505,
+        "target_nTPM": 25.437254901960785,
+        "weight": 0.689403986464965
+      }
+    ]
+  }
+}
