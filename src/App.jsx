@@ -68,8 +68,8 @@ const BuildAPromoter = () => {
   // Store fetched JASPAR models here
   const [motifLibrary, setMotifLibrary] = useState({});
 
-  // const JASPAR_BASE = '/api/jaspar/api/v1';
-  const JASPAR_BASE = 'https://jaspar.elixir.no/api/v1';
+  const JASPAR_BASE = '/api/jaspar';
+  // const JASPAR_BASE = 'https://jaspar.elixir.no/api/v1';
 
 
   // --- BIOLOGICAL CONFIG ---
@@ -884,7 +884,7 @@ const fitnessWrapper = (seq) => {
                     <span className="text-xs font-mono text-emerald-400">
                       {length} bp
                     </span>
-                  </div>s
+                  </div>
                   <input
                     type="range"
                     min="50"
