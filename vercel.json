@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/jaspar/:path*", "destination": "/api/jaspar?path=:path*" }
+  ]
+}
