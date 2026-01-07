@@ -678,7 +678,7 @@ const fitnessWrapper = (seq) => {
         <div>
           <h1 className="text-3xl font-bold text-emerald-400 flex items-center gap-3 tracking-tighter">
             <Dna size={32} className="animate-pulse" />
-            BuildAPromoter.net
+            dnadesignlab.com
           </h1>
           <p className="text-slate-500 mt-2 text-sm flex items-center gap-2">
             Synthetic Regulatory Element Designer
